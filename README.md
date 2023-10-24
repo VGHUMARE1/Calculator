@@ -1,1 +1,1 @@
-# Calculator <br> #first_mini_project #HTML #CSS #Javascript
+# Calculator
